@@ -4,6 +4,12 @@ qwqewq
 xzczx
 
 sadsa
+<<<<<<< .mine
 
 ´òË­
 kk
+=======
+
+
+
+>>>>>>> .theirs
